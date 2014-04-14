@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/WebService-Google-DoubleClick-Reporting.t
+lib/WebService/Google/DoubleClick/Reporting.pm
